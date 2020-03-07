@@ -14,3 +14,6 @@ Sample website with plenty of files for demos
 neve a moneky
 ## Deployment
 isdfsdfs
+
+### copyright section
+this is a donkey section for copyright
