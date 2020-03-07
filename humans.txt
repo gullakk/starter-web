@@ -4,6 +4,9 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+jaimini ram
+vishal sharma 
+dokey man 
 
 # THANKS
 
